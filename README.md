@@ -2,7 +2,7 @@
 This model will convert arabic syllables to full words.\
 The models was intented to be used after Our [syllables based wav2vec model](https://huggingface.co/IbrahimSalah/Arabic_speech_Syllables_recognition_Using_Wav2vec2) \
 The model was fine tunned using Mt5 base model on modern standard arabic dataset.\
-[Hugging face model link](IbrahimSalah/Arabic_Syllables_to_text_Converter_Using_MT5)
+[Hugging face model link](IbrahimSalah/Arabic_Syllables_to_text_Converter_Using_MT5](https://huggingface.co/IbrahimSalah/Arabic_Syllables_to_text_Converter_Using_MT5))
 
 # Example :
 -> input : بِاْ لِنْ نِسْ بَ تِ لِ لَسْ سُيْ يَ اِحْ مِمْ مِنْ طَ قَ تِشْ شَرْ قِلْ ءَوْ سَطْ\
